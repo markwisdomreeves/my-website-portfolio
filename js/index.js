@@ -133,7 +133,7 @@ $(document).ready(function() {
         event.preventDefault();
         // window.location.href = "DownloadCV.pdf";
         // window.location.href = "DownloadCV.docx";
-        window.location.href = "My-curriculum-vitae.pdf";
+        window.location.href = "My-curriculum-vitae.docx";
     })
 });
 
